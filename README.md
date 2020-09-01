@@ -8,8 +8,8 @@
 
 4、textEdit，显示检测后的精度，更换图片就清空
 
-[先在QT中编译opencv，参考](https://blog.csdn.net/yx868yx/article/details/105708554)
+[先在QT中编译opencv，参考:https://blog.csdn.net/yx868yx/article/details/105708554](https://blog.csdn.net/yx868yx/article/details/105708554)
 
-[详细参考:](https://blog.csdn.net/yx868yx/article/details/105709925)
+[详细参考:https://blog.csdn.net/yx868yx/article/details/105709925](https://blog.csdn.net/yx868yx/article/details/105709925)
 
 ![Iamge](https://github.com/yx868868/QT_Object_Detection/blob/master/2020042315575279.png)
